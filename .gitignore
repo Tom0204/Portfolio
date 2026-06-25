@@ -17,3 +17,9 @@ CMakeFiles/
 CMakeCache.txt
 cmake_install.cmake
 Makefile
+
+# Dossiers vides (en construction)
+Python/
+Java/
+CSharp/
+PHP/
