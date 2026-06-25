@@ -1,0 +1,14 @@
+{
+  "version": 3,
+  "configurePresets": [
+    {
+      "name": "x64-debug-sfml",
+      "displayName": "x64 Debug SFML (local)",
+      "inherits": "x64-debug",
+      "cacheVariables": {
+        "CMAKE_BUILD_TYPE": "Debug",
+        "CMAKE_PREFIX_PATH": "C:/Libs/SFML-2.6.2"
+      }
+    }
+  ]
+}
